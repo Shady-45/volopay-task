@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+--font-xl: 4.209rem;
+--font-l:3.157rem;
+--font-m:2.369rem;
+--font-s:1.333rem;
+}
+h1{
+  font-size: var(--font-xl);
+}
+h2{
+  font-size: var(--font-l);
+}
+h3{
+  font-size: var(--font-m);
+}
+h4{
+  font-size: var(--font-s);
+}

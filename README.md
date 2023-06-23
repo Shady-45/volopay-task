@@ -14,6 +14,7 @@ Once the dependencies have been installed, you can start the application by runn
 
 The application will start on   http://127.0.0.1:5173/.
 
+# The website is hosted on https://volopay1.netlify.app/
 External Libraries
 The following external libraries are used in this application:
 ## react-icons

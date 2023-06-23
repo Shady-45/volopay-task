@@ -24,3 +24,65 @@ h3{
 h4{
   font-size: var(--font-s);
 }
+
+button{
+  
+  background: #ff0063;
+  border: 2px solid #ff0063;
+  color: white;
+  padding: 4px 25px;
+  cursor: pointer;
+
+}
+
+article{
+  padding: 20px;
+  margin-top: 5rem;
+  margin-left: 1rem;
+  border: 1px solid #e7e7e7;
+  
+}
+section{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+}
+.details{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+.buttons{
+  margin-top: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+}
+.line-bar{
+  display: flex;
+  margin-top: 1rem;
+  align-items: center;
+}
+.red{
+  width: 50%;
+  height: 10px;
+  display: block;
+  background-color: red;
+}
+.green{
+  width: 50%;
+  height: 10px;
+  display: block;
+  background-color: green;
+}
+.amt-spent{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
